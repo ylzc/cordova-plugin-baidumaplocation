@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ylzc/cordova-plugin-baidumaplocation.git"
+    "url": "https://github.com/ylzc/cordova-plugin-baidumaplocation.git"
   },
   "keywords": [
     "cordova",
@@ -25,12 +25,6 @@
   "author": "ylzc",
   "license": "Apache-2.0",
   "engines": {
-    "cordovaDependencies": {
-      "2.0.3": { "cordova-android": ">=5.0.0" }
-    }
-  },
-  "bugs": {
-    "url": "https://github.com/ylzc/cordova-plugin-baidumaplocation/issues"
-  },
-  "homepage": "https://github.com/ylzc/cordova-plugin-baidumaplocation#readme"
+    "cordovaDependencies": {"2.0.3": { "cordova-android": ">=5.0.0" }}
+  }
 }
